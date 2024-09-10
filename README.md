@@ -5,7 +5,7 @@
 Eu sou gustavo, filho do davi britto 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>javascript</strong> 
-- 💬 Pergunte-me sobre: <strong>dark souls</strong>
+- 💬 NAO Pergunte-me sobre
 - 📣 Nós podemos falar em: <strong>português e inglês</strong>
 
 <div align="center">
