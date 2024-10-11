@@ -1,6 +1,7 @@
-# [qxstavo] <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJCSgdwKFwzJbKfAwpsjgiv31UlHNvcSsAzw&s">
+# [qxstavo]
 
-![imagem](https://25.media.tumblr.com/034cbde93ca43ccaf7acd7e4232eeccf/tumblr_msieuuvps91sgkj5wo1_500.gif)
+
+![imagem](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJCSgdwKFwzJbKfAwpsjgiv31UlHNvcSsAzw&s)
 
 Eu sou gustavo, filho do davi britto 👨🏻‍💻 
 
