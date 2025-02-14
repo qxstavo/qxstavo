@@ -3,7 +3,7 @@
 
 ![imagem](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJCSgdwKFwzJbKfAwpsjgiv31UlHNvcSsAzw&s)
 
-Eu sou gustavo, filho do davi britto 👨🏻‍💻 
+Eu sou gustavo, filho do lebron james 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>javascript</strong> 
 - 💬 NAO Pergunte-me sobre
